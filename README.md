@@ -1,4 +1,3 @@
-# CS-470---Full-Stack-Development-II     
 # CS 470 Final Presentation and Reflection
 
 ## Introduction
@@ -13,11 +12,10 @@ This project involved converting a traditional full stack application into a clo
 - **Source Code:** (If applicable) The actual code developed during the course.
 
 ## Presentation
-- **[View Presentation]([URL_to_Presentation](https://youtu.be/_TJSt5zON2Q))** - Access the video presentation summarizing the project, including demonstrations and architectural explanations.
+- **[View Presentation](https://youtu.be/_TJSt5zON2Q)** - Access the video presentation summarizing the project, including demonstrations and architectural explanations.
 
 ## Final Reflection
-- **[Read Final Reflection PDF]([URL_to_Reflection_PDF](https://drive.google.com/file/d/1UIyQpbHHv4_EkNcLBPStrKSKOMt7ZOPH/view?usp=sharing
-))** - Detailed insights into the professional growth and understanding of cloud services concepts developed through this course.
+- **[Read Final Reflection PDF](https://drive.google.com/file/d/1UIyQpbHHv4_EkNcLBPStrKSKOMt7ZOPH/view?usp=sharing)** - Detailed insights into the professional growth and understanding of cloud services concepts developed through this course.
 
 ## Key Learnings
 - Mastery of Serverless Architecture
@@ -34,8 +32,9 @@ This repository is intended for viewing the project overview, accessing educatio
 
 ## Contact Information
 For inquiries or further discussion about this project:
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** sstutts316@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sstutts316/
 
 ## Acknowledgements
 Special thanks to the instructors and peers in CS 470 for their support and constructive feedback, which were crucial in the successful completion of this project.
+
