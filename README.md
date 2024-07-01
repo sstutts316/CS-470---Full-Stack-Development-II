@@ -36,5 +36,5 @@ For inquiries or further discussion about this project:
 - **LinkedIn:** https://www.linkedin.com/in/sstutts316/
 
 ## Acknowledgements
-Special thanks to the instructors and peers in CS 470 for their support and constructive feedback, which were crucial in the successful completion of this project.
+Special thanks to the instructor and peers in CS 470 for their support and constructive feedback, which were crucial in the successful completion of this project.
 
